@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/829011?v=4" alt="Junior Joanis Profile Photo" width="150" style="border-radius: 50%;">
   <h1>Hi there! I'm Junior Joanis 👋</h1>
   
   <p>
