@@ -48,17 +48,6 @@ My stack is centered around stability, performance, and modern AI integration.
 
 ---
 
-## 📊 My GitHub Stats
-
-These widgets showcase your coding activity and favorite languages.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorJoanis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=007ACC&icon_color=007ACC" alt="Junior Joanis GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorJoanis&layout=compact&theme=dark&title_color=007ACC&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or just sharing knowledge!
