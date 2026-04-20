@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a seasoned **Chief Technical Officer (CTO)** and a hands-on engineer with over 12 years of experience focused on building, scaling, and leading innovative SaaS platforms. I specialize in bridging the gap between deep technical implementation and strategic product growth.
+I'm a Tech lead and a hands-on engineer with over 12 years of experience focused on building, scaling, and leading innovative SaaS platforms. I specialize in bridging the gap between deep technical implementation and strategic product growth.
 
 * 💡 **Impact at Scale:** I’ve founded and led products that serve over $100\text{k+}$ active users for major companies.
 * 🧠 **Last Focus:** I have built an **AI-driven Accounts Receivable automation** using **LangChain** and modern full-stack development.
